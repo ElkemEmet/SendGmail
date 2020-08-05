@@ -1,0 +1,9 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÒÔÚ4
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®âûüùÿÿÿÿ8ÒñÈÛ».
+J	java:S108")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ8ÒñÈÛ».
+\
+java:S5527"?Enable server hostname verification on this SSL/TLS connection.(Ì×û8Š»ÉÛ».
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä®‹î8ÒñÈÛ».
+W
+java:S1118":Add a private constructor to hide the implicit public one.(×¼­Æ8ÒñÈÛ».
